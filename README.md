@@ -1,7 +1,7 @@
 # QuantumLeap - E-Commerce Test Automation Framework
 
 ## **Project Overview**
-QuantumLeap is a comprehensive **test automation framework** designed from scratch to validate the functionality of a live e-commerce web application and its supporting APIs. This framework demonstrates modern QA automation practices, combining **UI automation**, **API testing**, **BDD integration**, and **non-functional testing concepts** into a single, maintainable project.  
+QuantumLeap – E-Commerce Test Automation Framework is a portfolio-ready automation project designed to validate both UI and API functionality of modern applications under test. The framework is built from scratch using best practices, ensuring scalability, maintainability, and reusability.
 
 The framework is **portfolio-ready** and hosted on GitHub, showcasing expertise in Selenium, TestNG, REST Assured, Cucumber BDD, and Extent Reports.
 
